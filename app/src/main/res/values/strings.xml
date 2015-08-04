@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">VSM Ava</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample_course_name">Chemistry</string>
+    <string name="sample_course_description">the branch of science concerned with the substances of which matter is composed</string>
+    <string name="vsm_sub_title_1">Study Anytime,Anywhere</string>
+    <string name="question_mark">\?</string>
+    <string name="vsm_sub_title_2">Login to your account,we will get you started</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="vsm_signin_terms_accept">By clicking Sign Up, you agree to our Terms and Conditions and that you have read our Privacy Policy.</string>
+    <string name="tab_1">Tab 1</string>
+    <string name="tab_2">Tab 2</string>
+    <string name="geoip_url">http://www.telize.com/geoip?</string>
+    <string name="get_course_details">http://ava.getvsm.com/api/v1/courses/details?course_id=</string>
+    <string name="get_annonations">http://ava.getvsm.com/api/v1/fetch_annotations?video_id=</string>
+
+    
+    <!--local dev box-->
+    <!--<string name="socket_url">ws://192.168.1.6:9300</string>-->
+    <!--<string name="server_ip">192.168.1.6</string>-->
+
+
+    <!-- prod dev box- -->
+    <string name="socket_url">ws://52.74.168.43:443</string>
+    <string name="server_ip">52.74.168.43</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_account">Already have an account?<b>Sign In</b></string>
+</resources>
